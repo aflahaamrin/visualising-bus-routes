@@ -1,0 +1,66 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone
+6220,6220,Kupe Street at Hamilton Road,,-41.31025845,174.7929054,2,,0,,Pacific/Auckland
+6212,6212,Elizabeth Street (near 7),,-41.2958103,174.7836717,1,,0,,Pacific/Auckland
+7042,7042,Seatoun - Hector Street,,-41.32536278,174.8346616,3,,0,,Pacific/Auckland
+6028,6028,Rongotai Road at Troy Street,,-41.31886671,174.8011461,3,,0,,Pacific/Auckland
+6032,6032,Hobart Street opposite Kedah Street,,-41.32355031,174.812626,3,,0,,Pacific/Auckland
+5502,5502,Lambton Quay North - Stop D,,-41.27988882087825,174.7764998049664,1,,0,,Pacific/Auckland
+6221,6221,Hamilton Road at Wellington Road (near 115),,-41.31169948,174.7936844,2,,0,,Pacific/Auckland
+6033,6033,Broadway at Hobart Street,,-41.32527,174.8123,3,,0,,Pacific/Auckland
+4311,4311,Bowen Street (near 38),,-41.27824806511681,174.77436762178218,1,,0,,Pacific/Auckland
+4315,4315,Glenmore Street at Orangi Kaupapa Road,,-41.28344091,174.7621992,2,,0,,Pacific/Auckland
+4320,4320,Zealandia - Chaytor Street (at Tunnel),,-41.28710344,174.75478538,2/3,,0,,Pacific/Auckland
+6036,6036,Strathmore Park Shops (opposite),,-41.32441244,174.8207748,3,,0,,Pacific/Auckland
+7232,7232,Hobart Street at Chelsea Street,,-41.31937494999999,174.8146608,3,,0,,Pacific/Auckland
+4313,4313,Botanic Garden - Glenmore Street (opposite),,-41.28057662,174.7668983,1/2,,0,,Pacific/Auckland
+4328,4328,Karori Road opposite St Teresa's School,,-41.28536061,174.7350564,3,,0,,Pacific/Auckland
+5506,5506,Lambton Central - Stop B,,-41.28296301740423,174.77570891360472,1,,0,,Pacific/Auckland
+6223,6223,Kilbirnie Library - Kilbirnie Crescent,,-41.3161616,174.7941379,2,,0,,Pacific/Auckland
+6214,6214,Pirie Street at Porritt Avenue (near 77),,-41.29829421,174.7861281,1,,0,,Pacific/Auckland
+6219,6219,Kilbirnie School - Moxham Avenue,,-41.30879333,174.7925706,2,,0,,Pacific/Auckland
+6213,6213,Brougham Street (near 51),,-41.29687478,174.78538027,1,,0,,Pacific/Auckland
+4331,4331,Karori Park Pavilion - Karori Road,,-41.28700485,174.7252091,3,,0,,Pacific/Auckland
+4330,4330,Karori Road at Tringham Street,,-41.28674901,174.7288185,3,,0,,Pacific/Auckland
+6041,6041,Dundas Street at Monro Street (near 55),,-41.32312724,174.833643,3,,0,,Pacific/Auckland
+6217,6217,Hataitai - Stop B,,-41.30387144,174.7938613,2,,0,,Pacific/Auckland
+4322,4322,Chaytor Street opposite Joll Street,,-41.28253895999999,174.75247727,3,,0,,Pacific/Auckland
+6038,6038,Broadway opposite Cavendish Square,,-41.32433106,174.8259103,3,,0,,Pacific/Auckland
+6215,6215,Pirie Street at Bus Tunnel,,-41.29898296999999,174.7881773,1/2,,0,,Pacific/Auckland
+6236,6236,Park Road at Rotherham Terrace (near 91),,-41.31186606,174.81966743,3,,0,,Pacific/Auckland
+4321,4321,Chaytor Street at Curtis Street,,-41.28452301,174.75326936,3,,0,,Pacific/Auckland
+6037,6037,Broadway at Tio Tio Road,,-41.32392067,174.8233897,3,,0,,Pacific/Auckland
+5510,5510,Willis Street at Willbank Court,,-41.28801096,174.7754582,1,,0,,Pacific/Auckland
+6216,6216,Waitoa Road at Bus Tunnel,,-41.30220991,174.79209335,2,,0,,Pacific/Auckland
+6086,6086,Hobart Street at Devonshire Road,,-41.32175367,174.81332689,3,,0,,Pacific/Auckland
+4327,4327,Karori Mall - Karori Road,,-41.28443602,174.7382243,3,,0,,Pacific/Auckland
+4316,4316,Glenmore Street at The Rigi,,-41.28575021999999,174.7584401,2,,0,,Pacific/Auckland
+6234,6234,Park Road at Byron Street (near 45),,-41.31412499999999,174.817802,3,,0,,Pacific/Auckland
+6241,6241,Miramar - Darlington Road (near 155),,-41.3055,174.82587,3,,0,,Pacific/Auckland
+4325,4325,Karori Normal School - Karori Road (opposite),,-41.28361466,174.7411492,3,,0,,Pacific/Auckland
+4319,4319,Karori Tunnel - Stop A,,-41.28703440999999,174.7569222,2,,0,,Pacific/Auckland
+6040,6040,Dundas Street at Falkirk Avenue,,-41.32254646,174.8305202,3,,0,,Pacific/Auckland
+5516,5516,Courtenay Place - Stop C,,-41.29375246,174.7827796,1,,0,,Pacific/Auckland
+6042,6042,Monro Street at Seatoun Park,,-41.32556569,174.8332334,3,,0,,Pacific/Auckland
+6218,6218,Moxham Avenue at Raupo Street (near 87),,-41.30749464,174.7930105,2,,0,,Pacific/Auckland
+5514,5514,Courtenay Place at Courtenay Central,,-41.29289647,174.77989,1,,0,,Pacific/Auckland
+6081,6081,Miramar Shops - Stop B,,-41.31585050999999,174.8153993,3,,0,,Pacific/Auckland
+6027,6027,Rongotai Road (near 119),,-41.31848387,174.7991619,3,,0,,Pacific/Auckland
+5508,5508,Lambton Quay at Hunter Street,,-41.2850002794407,174.77560946220586,1,,0,,Pacific/Auckland
+4312,4312,Tinakori Road at St Mary Street,,-41.27929047,174.7685352,1,,0,,Pacific/Auckland
+4323,4323,Karori Road at Standen Street,,-41.28118846,174.7504369,3,,0,,Pacific/Auckland
+6239,6239,Darlington Road (near 65),,-41.30985112,174.8245505,3,,0,,Pacific/Auckland
+6080,6080,Miramar Avenue at Tauhinu Road,,-41.31498596,174.8131054,3,,0,,Pacific/Auckland
+4332,4332,Karori - Allington Road,,-41.28897686787095,174.72331063145455,3,,0,,Pacific/Auckland
+6035,6035,Broadway at The Quadrant,,-41.32498663,174.81864,3,,0,,Pacific/Auckland
+6238,6238,Darlington Road at Puriri Street (near 33),,-41.31150199999999,174.823812,3,,0,,Pacific/Auckland
+6222,6222,Wellington Regional Aquatic Centre,,-41.31511839,174.7931581,2,,0,,Pacific/Auckland
+5513,5513,Manners Street at Cuba Street - Stop B,,-41.29096552,174.7766131,1,,0,,Pacific/Auckland
+6034,6034,Broadway at Crawford Green,,-41.32518596,174.8146779,3,,0,,Pacific/Auckland
+4317,4317,Glenmore Street at Kelburn Viaduct,,-41.28783562,174.7575408,2,,0,,Pacific/Auckland
+6235,6235,Park Road at Brussels Street (near 63),,-41.31309675,174.8186678,3,,0,,Pacific/Auckland
+4324,4324,Marsden Village - Karori Road,,-41.28229753,174.74606751,3,,0,,Pacific/Auckland
+6224,6224,Kilbirnie - Stop A,,-41.31716999999999,174.79587,3/2,,0,,Pacific/Auckland
+6240,6240,Darlington Road at Camperdown Road,,-41.30740322,174.8255573,3,,0,,Pacific/Auckland
+6039,6039,Ferry Street at Dundas Street,,-41.32257494,174.8287288,3,,0,,Pacific/Auckland
+4329,4329,Karori Road opposite Richmond Avenue,,-41.28656133,174.7303544,3,,0,,Pacific/Auckland
+6237,6237,Rotherham Terrace at Darlington Road,,-41.31270032,174.82293499,3,,0,,Pacific/Auckland

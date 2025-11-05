@@ -1,0 +1,2 @@
+This project processes and visualises public bus route data from the [Metlink Developer Portal](https://opendata.metlink.org.nz/).  
+It reads GTFS text files, filters the relevant routes and stops, and plots them on a map using GeoPandas and Matplotlib.
